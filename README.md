@@ -1,1 +1,2 @@
 # bestrepoever
+Prepare to CI
